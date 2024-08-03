@@ -1,0 +1,17 @@
+{
+  "name": "brainiacs-work",
+  "version": "1.0.0",
+  "main": "e-commerceapp.js",
+  "scripts": {
+    "dev": "nodemon e-commerceapp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "g": "^2.0.1",
+    "mongoose": "^8.5.1"
+  }
+}
